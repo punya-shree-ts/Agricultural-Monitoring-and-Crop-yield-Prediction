@@ -2,11 +2,13 @@
 Developed an AI-driven decision-support system for precision agriculture using hyperspectral imaging, weather data, and machine learning to predict crop yield and monitor soil health. Built using Python, Scikit-learn, and Flask.
 
 # 🌾 Agricultural Monitoring & Crop Yield Prediction
-
 Using hyperspectral remote sensing + ML to support smarter farming.
 
 ## 📌 Overview
 A decision-support system for farmers using hyperspectral imagery, ML, and weather data to predict crop yield and monitor health.
+
+## Publication
+Published the paper at ICRIET 2025 with paper ID - 340
 
 ## 🚀 Features
 - Hyperspectral data preprocessing

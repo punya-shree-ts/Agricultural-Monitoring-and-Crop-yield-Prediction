@@ -22,6 +22,7 @@ Python, Flask, TensorFlow, Scikit-learn, Pandas, NDVI analysis
 - Precision: 88%
 - Used Random Forest for best generalizability
 - Also used Gradient Boosting for better prediction
+- Users can select between two language options for a more personalized experience - English and Kannada
 
 ## 📸 Snapshots
 - Home Page
